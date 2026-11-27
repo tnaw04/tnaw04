@@ -7,7 +7,7 @@
   <img src="assets/profile-light.gif" width="936" alt="Terminal profile for Nam Nguyen, @tnaw04, with animated ASCII art of Patrick holding a broom.">
 </picture>
 
-I'm building **Background Desktop**, an animated ASCII wallpaper for Ubuntu GNOME. Take a look at the [project and installation guide](https://github.com/tnaw04/Background-desktop).
+
 
 ## Contributions
 
