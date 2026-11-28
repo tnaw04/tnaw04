@@ -1,5 +1,3 @@
-# Nam Nguyen
-
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="assets/profile-dark.png">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-light.png">
